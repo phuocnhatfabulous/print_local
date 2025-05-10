@@ -1,17 +1,17 @@
 *PPD-Adobe: "4.3"
 *%
-*% Create By CommUnit 2017/04/05 11:13
+*% Create By CommUnit 2012/08/17 11:13
 *%
 *FormatVersion: "4.3"
 *FileVersion: "1.0"
 *LanguageVersion: English
 *LanguageEncoding: ISOLatin1
-*PCFileName: "TE200.ppd"
+*PCFileName: "MH341.ppd"
 *Manufacturer: "TSC"
-*Product: "(TE200)"
-*ModelName: "TSC TE200"
-*ShortNickName: "TSC TE200"
-*NickName: "TSC TE200"
+*Product: "(MH341)"
+*ModelName: "TSC MH341"
+*ShortNickName: "TSC MH341"
+*NickName: "TSC MH341"
 *PSVersion: "(3010.000) 550"
 *PSVersion: "(3010.000) 651"
 *PSVersion: "(3010.000) 652"
@@ -33,14 +33,14 @@
 
 *TscAttr tscLanguage: TSPL2
 *TscAttr tscUtility: BarCodeUtility
-*TscAttr MaxPaperWidth: 317.48
+*TscAttr MaxPaperWidth: 323.15
 
-*MaxMediaWidth: "306.14"
-*MaxMediaHeight: "7920"
+*MaxMediaWidth: "299.28"
+*MaxMediaHeight: "32400"
 *HWMargins: 0.00 0.00 0.00 0.00
 *CustomPageSize True: "pop pop pop <</PageSize[5 -2 roll]/ImagingBBox null>>setpagedevice"
-*ParamCustomPageSize Width: 1 points 14.17 306.14
-*ParamCustomPageSize Height: 2 points 14.17 7920
+*ParamCustomPageSize Width: 1 points 14.17 299.28
+*ParamCustomPageSize Height: 2 points 14.17 32400
 *ParamCustomPageSize WidthOffset: 3 points 0 0
 *ParamCustomPageSize HeightOffset: 4 points 0 0
 *ParamCustomPageSize Orientation: 5 int 0 0
@@ -53,9 +53,7 @@
 *DefaultPageSize: w76h130
 *PageSize w2h4/2 x 4 (2.00 in x 4.00 in): "<</PageSize[144 288]/ImagingBBox null>>setpagedevice"
 *PageSize w4h4/4 x 4 (4.00 in x 4.00 in): "<</PageSize[288 288]/ImagingBBox null>>setpagedevice"
-*PageSize w4h6/A6 (4.00 in x 6.00 in): "<</PageSize[288 432]/ImagingBBox null>>setpagedevice"
-*PageSize a7/A7 (2.9 in x 4.1 in): "<</PageSize[297.6 209.8]/ImagingBBox null>>setpagedevice"
-*PageSize t3/Tem3 (4.13 in x 0.87 in): "<</PageSize[297.3 62.6]/ImagingBBox null>>setpagedevice"
+*PageSize w4h6/4 x 6 (4.00 in x 6.00 in): "<</PageSize[288 432]/ImagingBBox null>>setpagedevice"
 *PageSize w76h130/76x130mm (3 x 5.2 in): "<</PageSize[215.04 369.6]/ImagingBBox null>>setpagedevice"
 *CloseUI: *PageSize
 
@@ -64,34 +62,26 @@
 *DefaultPageRegion: w76h130
 *PageRegion w2h4/2 x 4 (2.00 in x 4.00 in): "<</PageSize[144 288]/ImagingBBox null>>setpagedevice"
 *PageRegion w4h4/4 x 4 (4.00 in x 4.00 in): "<</PageSize[288 288]/ImagingBBox null>>setpagedevice"
-*PageRegion w4h6/A6 (4.00 in x 6.00 in): "<</PageSize[288 432]/ImagingBBox null>>setpagedevice"
-*PageRegion a7/A7 (2.9 in x 4.1 in): "<</PageSize[297.6 209.8]/ImagingBBox null>>setpagedevice"
-*PageRegion t3/Tem3 (4.13 in x 0.87 in): "<</PageSize[297.3 62.6]/ImagingBBox null>>setpagedevice"
+*PageRegion w4h6/4 x 6 (4.00 in x 6.00 in): "<</PageSize[288 432]/ImagingBBox null>>setpagedevice"
 *PageRegion w76h130/76x130mm (3 x 5.2 in): "<</PageSize[215.04 369.6]/ImagingBBox null>>setpagedevice"
 *CloseUI: *PageRegion
 
 *ImageableArea w2h4/2 x 4 (2.00 in x 4.00 in): "0 0 144 288"
 *ImageableArea w4h4/4 x 4 (4.00 in x 4.00 in): "0 0 288 288"
-*ImageableArea w4h6/A6 (4.00 in x 6.00 in): "0 0 288 432"
-*ImageableArea a7/A7 (2.9 in x 4.9 in): "0 0 297.6 209.8"
-*ImageableArea t3/Tem3 (4.13 in x 0.87 in): "0 0 297.3 62.6"
+*ImageableArea w4h6/4 x 6 (4.00 in x 6.00 in): "0 0 288 432"
 *ImageableArea w76h130/76x130 mm (3 x 5.2 in): "0 0 215.04 369.6"
-
-
 
 
 *PaperDimension w2h4/2 x 4 (2.00 in x 4.00 in): "144 288"
 *PaperDimension w4h4/4 x 4 (4.00 in x 4.00 in): "288 288"
-*PaperDimension w4h6/A6 (4.00 in x 6.00 in): "288 432"
-*PaperDimension a7/A7 (2.9 in x 4.9 in): "297.6 209.8"
-*PaperDimension t3/Tem3 (4.13 in x 0.87 in): "297.3 62.6"
+*PaperDimension w4h6/4 x 6 (4.00 in x 6.00 in): "288 432"
 *PaperDimension w76h130/76x130 mm (3 x 5.2 in): "215.04 369.6"
 
 
 *OpenUI *Resolution/Resolution: PickOne
 *OrderDependency: 300 AnySetup *Resolution
-*DefaultResolution: 203dpi
-*Resolution 203dpi/203 dpi x 203 dpi: "<</HWResolution[203 203]/cupsBitsPerColor 1/cupsRowCount 8/cupsRowFeed 0/cupsRowStep 0/cupsColorSpace 3>>setpagedevice"
+*DefaultResolution: 300dpi
+*Resolution 300dpi/300 dpi x 300 dpi: "<</HWResolution[300 300]/cupsBitsPerColor 1/cupsRowCount 8/cupsRowFeed 0/cupsRowStep 0/cupsColorSpace 3>>setpagedevice"
 *CloseUI: *Resolution
 
 *OpenUI *Collate/Collate: Boolean
@@ -164,12 +154,18 @@
 
 *OpenUI *PrintSpeed/Print Speed: PickOne
 *OrderDependency: 110 AnySetup *PrintSpeed
-*DefaultPrintSpeed: 60
+*DefaultPrintSpeed: 110
 *PrintSpeed 20/2.00 in/sec: "%%"
 *PrintSpeed 30/3.00 in/sec: "%%"
 *PrintSpeed 40/4.00 in/sec: "%%"
 *PrintSpeed 50/5.00 in/sec: "%%"
 *PrintSpeed 60/6.00 in/sec: "%%"
+*PrintSpeed 70/7.00 in/sec: "%%"
+*PrintSpeed 80/8.00 in/sec: "%%"
+*PrintSpeed 90/9.00 in/sec: "%%"
+*PrintSpeed 100/10.00 in/sec: "%%"
+*PrintSpeed 110/11.00 in/sec: "%%"
+*PrintSpeed 120/12.00 in/sec: "%%"
 *CloseUI: *PrintSpeed
 
 *OpenUI *Darkness/Darkness: PickOne
@@ -227,9 +223,8 @@
 *zh_CN.PageSize w2h4/2 x 4 (50.8 mm x 101.6 mm): ""
 *zh_CN.PageSize w4h4/4 x 4 (101.6 mm x 101.6 mm): ""
 *zh_CN.PageSize w4h6/4 x 6 (101.6 mm x 152.4 mm): ""
-*zh_CN.PageSize w76h130/76 x 130 mm (76.2 mm x 132.08 mm): ""
 *zh_CN.Translation Resolution/分辨率: ""
-*zh_CN.Resolution 203dpi/8.0 每毫米点数 x 8.0 每毫米点数: ""
+*zh_CN.Resolution 300dpi/12.0 每毫米点数 x 12.0 每毫米点数: ""
 *zh_CN.Collate True/是: ""
 *zh_CN.Collate False/否: ""
 *zh_CN.Translation Media/纸张设置: ""
@@ -266,6 +261,12 @@
 *zh_CN.PrintSpeed 40/101.60 mm/秒: ""
 *zh_CN.PrintSpeed 50/127.00 mm/秒: ""
 *zh_CN.PrintSpeed 60/152.40 mm/秒: ""
+*zh_CN.PrintSpeed 70/177.80 mm/秒: ""
+*zh_CN.PrintSpeed 80/203.20 mm/秒: ""
+*zh_CN.PrintSpeed 90/228.60 mm/秒: ""
+*zh_CN.PrintSpeed 100/254.00 mm/秒: ""
+*zh_CN.PrintSpeed 110/279.40 mm/秒: ""
+*zh_CN.PrintSpeed 120/304.80 mm/秒: ""
 *zh_CN.Translation Darkness/深度: ""
 *zh_CN.Translation GraphicsFormat/图像格式: ""
 *zh_CN.Translation DirectBuffer/指向缓冲器: ""
@@ -282,9 +283,8 @@
 *zh_TW.PageSize w2h4/2 x 4 (50.8 mm x 101.6 mm): ""
 *zh_TW.PageSize w4h4/4 x 4 (101.6 mm x 101.6 mm): ""
 *zh_TW.PageSize w4h6/4 x 6 (101.6 mm x 152.4 mm): ""
-*zh_TW.PageSize w76h130/76 x 130 mm (76.2 mm x 132.08 mm): ""
 *zh_TW.Translation Resolution/解析度: ""
-*zh_TW.Resolution 203dpi/8.0 每毫米點數 x 8.0 每毫米點數: ""
+*zh_TW.Resolution 300dpi/12.0 每毫米點數 x 12.0 每毫米點數: ""
 *zh_TW.Translation Media/紙張設定: ""
 *zh_TW.Translation MediaMethod/方式: ""
 *zh_TW.MediaMethod Normal/使用目前印表機設定: ""
@@ -314,7 +314,13 @@
 *zh_TW.PrintSpeed 30/76.20 mm/秒: ""
 *zh_TW.PrintSpeed 40/101.60 mm/秒: ""
 *zh_TW.PrintSpeed 50/127.00 mm/秒: ""
-*zh_TW.PrintSpeed 50/152.40 mm/秒: ""
+*zh_TW.PrintSpeed 60/152.40 mm/秒: ""
+*zh_TW.PrintSpeed 70/177.80 mm/秒: ""
+*zh_TW.PrintSpeed 80/203.20 mm/秒: ""
+*zh_TW.PrintSpeed 90/228.60 mm/秒: ""
+*zh_TW.PrintSpeed 100/254.00 mm/秒: ""
+*zh_TW.PrintSpeed 110/279.40 mm/秒: ""
+*zh_TW.PrintSpeed 120/304.80 mm/秒: ""
 *zh_TW.Translation Darkness/明暗度: ""
 *zh_TW.Translation GraphicsFormat/圖形格式: ""
 *zh_TW.Translation DirectBuffer/指向緩衝區: ""
